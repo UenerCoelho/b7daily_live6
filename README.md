@@ -1,6 +1,6 @@
 # Sistema de Login
 
-- Projeto de um sistema de login, administrado pelo @bonieky da b7web.com.br
+- Projeto de um sistema de login, administrado pelo @bonieky da b7web.com.br, como próprio nome ja diz, tem o objetivo de desenvolver um sistema de login em react.
 
 ## Mapa do Sistema de Login
 
